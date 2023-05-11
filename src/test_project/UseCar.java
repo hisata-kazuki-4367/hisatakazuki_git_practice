@@ -16,7 +16,6 @@ public class UseCar {
 		
 		System.out.println("c1 のメーカーは" + c1.maker + "です。");
 		System.out.println("c1 の色は" + c1.color + "です。");
-		
 	}
 
 }

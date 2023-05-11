@@ -6,4 +6,5 @@ public class HelloJava {
 		System.out.println("Java の世界にようこそ");
 	}
 
+	
 }
